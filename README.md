@@ -61,4 +61,4 @@ Ensure you have **Python 3.x** installed along with the following dependencies:
 pip install requests yfinance nltk matplotlib python-dateutil
 
 
-Thank you for your attention.🙏
+## Thank you for your attention.🙏
