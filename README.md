@@ -62,7 +62,7 @@ pip install requests yfinance nltk matplotlib python-dateutil
 
 ---
 
-### 🙏 **Thank You for Your Attention!**
+### <p>🙏 Thank you for your attention.</p>**
 We appreciate your time exploring this project. If you have any feedback, feel free to contribute or reach out.
 
 🚀 **Happy Trading & Sentiment Analyzing!** 📊📈
